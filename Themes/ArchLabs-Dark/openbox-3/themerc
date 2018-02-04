@@ -1,9 +1,6 @@
-# Name: Oomox (Numix fork) Openbox theme
-# Author: Satyajit Sahoo <satyajit.happy@gmail.com>
+# Name: ArchLabs Dark
+# Author: Matt Dobson <matt@archlabslinux.com>
 # License: GPL-3.0+
-
-# @TODO: finish replacing the colors here
-
 
 # Menu
 menu.border.color: #2b303b
