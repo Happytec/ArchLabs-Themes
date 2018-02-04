@@ -1,4 +1,4 @@
-# Oomox GTK Theme (Numix Fork)
+# ArchLabs Dark
 
 gtk-color-scheme =
 "base_color:#2b303b\nbg_color:#2b303b\ntooltip_bg_color:#2b303b\nselected_bg_color:#8fa1b3\ntext_color:#8fa1b3\nfg_color:#8fa1b3\ntooltip_fg_color:#8fa1b3\nselected_fg_color:#2b303b\nmenubar_bg_color:#2b303b\nmenubar_fg_color:#8fa1b3\ntoolbar_bg_color:#2b303b\ntoolbar_fg_color:#8fa1b3\nmenu_bg_color:#2b303b\nmenu_fg_color:#8fa1b3\npanel_bg_color:#2b303b\npanel_fg_color:#8fa1b3\nlink_color:#8fa1b3\nbtn_bg_color:#2b303b\nbtn_fg_color:#8fa1b3\ntitlebar_bg_color:#2b303b\ntitlebar_fg_color:#8fa1b3\nprimary_caret_color:#eff1f5\nsecondary_caret_color:#eff1f5\n"
