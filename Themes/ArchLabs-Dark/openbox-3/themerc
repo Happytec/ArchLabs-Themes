@@ -69,8 +69,9 @@ window.active.button.hover.bg: flat solid
 window.active.button.hover.bg.color: #2b303b
 window.active.button.hover.image.color: #8fa1b3
 
-#window.active.button.toggled.bg: #8fa1b3
-#window.active.button.toggled.image.color: #eff1f5
+window.active.button.toggled.bg: parentrelative
+window.active.button.toggled.bg.color: 2B303B
+window.active.button.toggled.image.color: 8FA1B3
 
 # Inactive window
 window.inactive.border.color: #2b303b
