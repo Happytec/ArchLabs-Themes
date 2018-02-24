@@ -1,29 +1,27 @@
 /* RASI Theme */
-
-    
 * {
-	background:                      #8fa1b3;
-	bordercolor:                     #2b303b;
-	separatorcolor:                  #2b303b;
-	normal-background:               #8fa1b3;
-	normal-foreground:               #2b303b;
-	alternate-normal-foreground:     #8fa1b3;
-	selected-normal-background:      #2b303b;
-	selected-normal-foreground:      #8fa1b3;
-	active-background:               #2b303b;
-	active-foreground:               #8fa1b3;
-	alternate-active-background:     #2b303b;
-	selected-active-background:      #8fa1b3;
-	selected-active-foreground:      #2b303b;
-	urgent-background:               #2b303b;
-	urgent-foreground:               #8fa1b3;
-	alternate-urgent-background:     #2b303b;
-	selected-urgent-background:      #8fa1b3;
-	selected-urgent-foreground:      #2b303b;
-	alternate-normal-foreground:     @normal-foreground;
-	alternate-urgent-foreground:     @urgent-foreground;
-	alternate-active-foreground:     @active-foreground;
-	foreground:                      @normal-foreground;
+    background:                      #8fa1b3;
+    bordercolor:                     #2b303b;
+    separatorcolor:                  #2b303b;
+    normal-background:               #8fa1b3;
+    normal-foreground:               #2b303b;
+    alternate-normal-foreground:     #8fa1b3;
+    selected-normal-background:      #2b303b;
+    selected-normal-foreground:      #8fa1b3;
+    active-background:               #2b303b;
+    active-foreground:               #8fa1b3;
+    alternate-active-background:     #2b303b;
+    selected-active-background:      #2b303b;
+    selected-active-foreground:      #8fa1b3;
+    urgent-background:               #2b303b;
+    urgent-foreground:               #8fa1b3;
+    alternate-urgent-background:     #2b303b;
+    selected-urgent-background:      #2b303b;
+    selected-urgent-foreground:      #8fa1b3;
+    alternate-normal-foreground:     @normal-foreground;
+    alternate-urgent-foreground:     @urgent-foreground;
+    alternate-active-foreground:     @active-foreground;
+    foreground:                      @normal-foreground;
 }
 
 * {
@@ -113,3 +111,4 @@
     spacing: 0;
     text-color:      @normal-foreground;
 }
+// vim:ft=css

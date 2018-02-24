@@ -52,7 +52,7 @@
     padding: 1% 2% 2%;
 }
 #button {
-	padding: 8 0 8;
+    padding: 8 0 8;
 }
 #button.selected {
     padding:  8 0 8;
@@ -62,7 +62,7 @@
     text-color: rgba ( 23, 147, 209, 100 % );
 }
 #inputbar {
-    border:      	 0;
+    border: 0;
     padding: 0% 1.8% 0% 0.2%;
 }
 #entry {
@@ -80,3 +80,4 @@
     text-color: rgba ( 255, 255, 255, 100 % );
     border-color: rgba ( 0, 0, 0, 100 % );
 }
+// vim:ft=css
